@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\conversao\obj\Debug\netcoreapp2.2\conversao.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\conversao\obj\Debug\netcoreapp2.2\conversao.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\conversao\obj\Debug\netcoreapp2.2\conversao.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\conversao\obj\Debug\netcoreapp2.2\conversao.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\conversao\bin\Debug\netcoreapp2.2\conversao.deps.json
+C:\Users\fic\Desktop\Csharp\conversao\bin\Debug\netcoreapp2.2\conversao.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\conversao\bin\Debug\netcoreapp2.2\conversao.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\conversao\bin\Debug\netcoreapp2.2\conversao.dll
+C:\Users\fic\Desktop\Csharp\conversao\bin\Debug\netcoreapp2.2\conversao.pdb
+C:\Users\fic\Desktop\Csharp\conversao\obj\Debug\netcoreapp2.2\conversao.dll
+C:\Users\fic\Desktop\Csharp\conversao\obj\Debug\netcoreapp2.2\conversao.pdb

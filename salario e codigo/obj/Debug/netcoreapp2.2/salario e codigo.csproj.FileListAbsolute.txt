@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\salario e codigo\obj\Debug\netcoreapp2.2\salario e codigo.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\salario e codigo\obj\Debug\netcoreapp2.2\salario e codigo.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\salario e codigo\obj\Debug\netcoreapp2.2\salario e codigo.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\salario e codigo\obj\Debug\netcoreapp2.2\salario e codigo.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\salario e codigo\bin\Debug\netcoreapp2.2\salario e codigo.deps.json
+C:\Users\fic\Desktop\Csharp\salario e codigo\bin\Debug\netcoreapp2.2\salario e codigo.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\salario e codigo\bin\Debug\netcoreapp2.2\salario e codigo.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\salario e codigo\bin\Debug\netcoreapp2.2\salario e codigo.dll
+C:\Users\fic\Desktop\Csharp\salario e codigo\bin\Debug\netcoreapp2.2\salario e codigo.pdb
+C:\Users\fic\Desktop\Csharp\salario e codigo\obj\Debug\netcoreapp2.2\salario e codigo.dll
+C:\Users\fic\Desktop\Csharp\salario e codigo\obj\Debug\netcoreapp2.2\salario e codigo.pdb

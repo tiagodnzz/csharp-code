@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\validacao email\bin\Debug\netcoreapp2.2\validacao email.deps.json
+C:\Users\fic\Desktop\Csharp\validacao email\bin\Debug\netcoreapp2.2\validacao email.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\validacao email\bin\Debug\netcoreapp2.2\validacao email.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\validacao email\bin\Debug\netcoreapp2.2\validacao email.dll
+C:\Users\fic\Desktop\Csharp\validacao email\bin\Debug\netcoreapp2.2\validacao email.pdb
+C:\Users\fic\Desktop\Csharp\validacao email\obj\Debug\netcoreapp2.2\validacao email.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\validacao email\obj\Debug\netcoreapp2.2\validacao email.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\validacao email\obj\Debug\netcoreapp2.2\validacao email.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\validacao email\obj\Debug\netcoreapp2.2\validacao email.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\validacao email\obj\Debug\netcoreapp2.2\validacao email.dll
+C:\Users\fic\Desktop\Csharp\validacao email\obj\Debug\netcoreapp2.2\validacao email.pdb

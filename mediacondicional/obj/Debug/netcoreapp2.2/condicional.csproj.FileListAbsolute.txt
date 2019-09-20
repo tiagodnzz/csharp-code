@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\mediacondicional\obj\Debug\netcoreapp2.2\condicional.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\mediacondicional\obj\Debug\netcoreapp2.2\condicional.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\mediacondicional\obj\Debug\netcoreapp2.2\condicional.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\mediacondicional\obj\Debug\netcoreapp2.2\condicional.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\mediacondicional\bin\Debug\netcoreapp2.2\condicional.deps.json
+C:\Users\fic\Desktop\Csharp\mediacondicional\bin\Debug\netcoreapp2.2\condicional.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\mediacondicional\bin\Debug\netcoreapp2.2\condicional.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\mediacondicional\bin\Debug\netcoreapp2.2\condicional.dll
+C:\Users\fic\Desktop\Csharp\mediacondicional\bin\Debug\netcoreapp2.2\condicional.pdb
+C:\Users\fic\Desktop\Csharp\mediacondicional\obj\Debug\netcoreapp2.2\condicional.dll
+C:\Users\fic\Desktop\Csharp\mediacondicional\obj\Debug\netcoreapp2.2\condicional.pdb

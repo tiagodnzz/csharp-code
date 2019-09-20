@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\while validacao\obj\Debug\netcoreapp2.2\while validacao.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\while validacao\obj\Debug\netcoreapp2.2\while validacao.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\while validacao\obj\Debug\netcoreapp2.2\while validacao.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\while validacao\obj\Debug\netcoreapp2.2\while validacao.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\while validacao\bin\Debug\netcoreapp2.2\while validacao.deps.json
+C:\Users\fic\Desktop\Csharp\while validacao\bin\Debug\netcoreapp2.2\while validacao.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\while validacao\bin\Debug\netcoreapp2.2\while validacao.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\while validacao\bin\Debug\netcoreapp2.2\while validacao.dll
+C:\Users\fic\Desktop\Csharp\while validacao\bin\Debug\netcoreapp2.2\while validacao.pdb
+C:\Users\fic\Desktop\Csharp\while validacao\obj\Debug\netcoreapp2.2\while validacao.dll
+C:\Users\fic\Desktop\Csharp\while validacao\obj\Debug\netcoreapp2.2\while validacao.pdb

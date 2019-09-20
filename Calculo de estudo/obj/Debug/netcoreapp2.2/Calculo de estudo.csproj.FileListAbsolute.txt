@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\Calculo de estudo\bin\Debug\netcoreapp2.2\Calculo de estudo.deps.json
+C:\Users\fic\Desktop\Csharp\Calculo de estudo\bin\Debug\netcoreapp2.2\Calculo de estudo.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\Calculo de estudo\bin\Debug\netcoreapp2.2\Calculo de estudo.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\Calculo de estudo\bin\Debug\netcoreapp2.2\Calculo de estudo.dll
+C:\Users\fic\Desktop\Csharp\Calculo de estudo\bin\Debug\netcoreapp2.2\Calculo de estudo.pdb
+C:\Users\fic\Desktop\Csharp\Calculo de estudo\obj\Debug\netcoreapp2.2\Calculo de estudo.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\Calculo de estudo\obj\Debug\netcoreapp2.2\Calculo de estudo.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\Calculo de estudo\obj\Debug\netcoreapp2.2\Calculo de estudo.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\Calculo de estudo\obj\Debug\netcoreapp2.2\Calculo de estudo.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\Calculo de estudo\obj\Debug\netcoreapp2.2\Calculo de estudo.dll
+C:\Users\fic\Desktop\Csharp\Calculo de estudo\obj\Debug\netcoreapp2.2\Calculo de estudo.pdb

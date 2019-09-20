@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\placass\obj\Debug\netcoreapp2.2\placass.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\placass\obj\Debug\netcoreapp2.2\placass.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\placass\obj\Debug\netcoreapp2.2\placass.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\placass\obj\Debug\netcoreapp2.2\placass.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\placass\bin\Debug\netcoreapp2.2\placass.deps.json
+C:\Users\fic\Desktop\Csharp\placass\bin\Debug\netcoreapp2.2\placass.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\placass\bin\Debug\netcoreapp2.2\placass.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\placass\bin\Debug\netcoreapp2.2\placass.dll
+C:\Users\fic\Desktop\Csharp\placass\bin\Debug\netcoreapp2.2\placass.pdb
+C:\Users\fic\Desktop\Csharp\placass\obj\Debug\netcoreapp2.2\placass.dll
+C:\Users\fic\Desktop\Csharp\placass\obj\Debug\netcoreapp2.2\placass.pdb

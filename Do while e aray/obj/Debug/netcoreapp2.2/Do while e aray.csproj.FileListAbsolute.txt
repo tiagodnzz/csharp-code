@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\Do while e aray\bin\Debug\netcoreapp2.2\Do while e aray.deps.json
+C:\Users\fic\Desktop\Csharp\Do while e aray\bin\Debug\netcoreapp2.2\Do while e aray.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\Do while e aray\bin\Debug\netcoreapp2.2\Do while e aray.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\Do while e aray\bin\Debug\netcoreapp2.2\Do while e aray.dll
+C:\Users\fic\Desktop\Csharp\Do while e aray\bin\Debug\netcoreapp2.2\Do while e aray.pdb
+C:\Users\fic\Desktop\Csharp\Do while e aray\obj\Debug\netcoreapp2.2\Do while e aray.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\Do while e aray\obj\Debug\netcoreapp2.2\Do while e aray.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\Do while e aray\obj\Debug\netcoreapp2.2\Do while e aray.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\Do while e aray\obj\Debug\netcoreapp2.2\Do while e aray.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\Do while e aray\obj\Debug\netcoreapp2.2\Do while e aray.dll
+C:\Users\fic\Desktop\Csharp\Do while e aray\obj\Debug\netcoreapp2.2\Do while e aray.pdb

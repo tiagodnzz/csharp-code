@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\medias\bin\Debug\netcoreapp2.2\medias.deps.json
+C:\Users\fic\Desktop\Csharp\medias\bin\Debug\netcoreapp2.2\medias.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\medias\bin\Debug\netcoreapp2.2\medias.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\medias\bin\Debug\netcoreapp2.2\medias.dll
+C:\Users\fic\Desktop\Csharp\medias\bin\Debug\netcoreapp2.2\medias.pdb
+C:\Users\fic\Desktop\Csharp\medias\obj\Debug\netcoreapp2.2\medias.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\medias\obj\Debug\netcoreapp2.2\medias.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\medias\obj\Debug\netcoreapp2.2\medias.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\medias\obj\Debug\netcoreapp2.2\medias.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\medias\obj\Debug\netcoreapp2.2\medias.dll
+C:\Users\fic\Desktop\Csharp\medias\obj\Debug\netcoreapp2.2\medias.pdb
